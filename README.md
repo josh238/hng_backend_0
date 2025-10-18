@@ -54,6 +54,6 @@ https://hngbackend0-production.up.railway.app
 📬 Contact
 Connect with me:
 
-📧 Email: napg.adekunle@gmail.com
-🌈 Slack: Jamal-09
-Built with 💻 & ❤️ by Jamal
+📧 Email: joshuaadelere238@gmail.com
+🌈 Slack: Joshua
+Built with 💻 & ❤️ by Joshua
